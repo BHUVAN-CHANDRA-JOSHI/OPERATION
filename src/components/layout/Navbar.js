@@ -27,7 +27,7 @@ const Navbar = () =>{
             
           </div>
         </div>
-        <Link type="button" style={{float:'right',marginTop:'-44px',marginRight:'4px'}} to="/users/add">Add User</Link>
+        <Link type="button"  className="btn btn-outline-light" style={{float:'right',marginTop:'-44px',marginRight:'4px',color:'black'}} to="/users/add">Add User</Link>
         
         </div>
       </nav>
